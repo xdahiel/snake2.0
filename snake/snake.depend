@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1589348252 source:d:\workspace\c\snake\snake\basicfunction.c
+	"snake.h"
+
+1589365301 d:\workspace\c\snake\snake\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<Shlwapi.h>
+
+1589366904 source:d:\workspace\c\snake\snake\gameover.c
+	"snake.h"
+
+1589348159 source:d:\workspace\c\snake\snake\gameprocessing.c
+	"snake.h"
+
+1589358431 source:d:\workspace\c\snake\snake\gamestart.c
+	"snake.h"
+
+1589365321 source:d:\workspace\c\snake\snake\main.c
+	"snake.h"
+
+1589366696 source:d:\workspace\c\snake\snake\usermanage.c
+	"snake.h"
+
+1589370975 source:d:\learning\code\c\snake\snake\basicfunction.c
+	"snake.h"
+
+1589370975 d:\learning\code\c\snake\snake\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<Shlwapi.h>
+
+1589370975 source:d:\learning\code\c\snake\snake\gameover.c
+	"snake.h"
+
+1589367843 source:d:\learning\code\c\snake\snake\main.c
+	"snake.h"
+
