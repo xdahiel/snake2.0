@@ -1,5 +1,12 @@
 #include "snake.h"
 
+/*
+    *Filename：gameStart.c
+    *Author: @2018856302@qq.com
+    *Date: 2020.5.14
+    *Discription: Deal with all things before playing
+*/
+
 /****************************************************
 	函数参数：无
 	函数功能：处理游戏前的事务

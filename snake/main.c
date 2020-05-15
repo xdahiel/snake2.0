@@ -1,5 +1,12 @@
 #include "snake.h"
 
+/*
+    *Filename：main.c
+    *Author: @2018856302@qq.com
+    *Date: 2020.5.14
+    *Discription: As the entrance of the program
+*/
+
 /****************************************************
 	函数参数：无
 	函数功能：程序入口

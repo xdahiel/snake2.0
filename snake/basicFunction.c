@@ -1,5 +1,12 @@
 #include "snake.h"
 
+/*
+    *Filename：basicFunction.c
+    *Author: @2018856302@qq.com
+    *Date: 2020.5.14
+    *Discription: Encapsulate some basic functions
+*/
+
 /****************************************************
 	函数参数：无
 	函数功能：隐藏光标

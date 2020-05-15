@@ -9,7 +9,6 @@
 #include <time.h>
 #include <Shlwapi.h>
 
-
 #define LENTH_WALL 25   //墙的长度
 #define WIDTH_WALL 50   //墙的宽度
 

@@ -1,5 +1,13 @@
 #include "snake.h"
 
+/*
+    *Filename：userManage.c
+    *Author: @2018856302@qq.com
+    *Date: 2020.5.14
+    *Discription: Manage users' infomation
+*/
+
+
 /****************************************************
 	函数参数：无
 	函数功能：获取文件中的用户信息
@@ -62,7 +70,7 @@ void print_rank()
 	gotoxy(35, 4);
 	printf("*********排行榜*********");
 	gotoxy(20, 6);
-	printf("排名\t账户\t  邮箱       游戏最高分  最长游戏时间");
+	printf("排名     账户\t  邮箱       游戏最高分  最长游戏时间");
 	for (i = 0; i < USER_NUM; ++i)
 	{
 		gotoxy(20, 8+2*i);
